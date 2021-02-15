@@ -77,11 +77,6 @@
         "cg1.4xlarge"
       ],
       "ConstraintDescription": "must be a valid EC2 instance type."
-    },
-    "ServerCount": {
-      "Description": "Number of EC2 instances to launch",
-      "Type": "Number",
-      "Default": "1"
     }
   },
   "Mappings": {
